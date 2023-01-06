@@ -86,7 +86,7 @@ In this programming assignment, you will develop Python programs to encode plain
 
 A sample run of the program to test encoding and cracking the code is shown below:
 <pre>
-Mac-mini:01-cipher raj$ python3 Cipher.py 
+Mac-mini:01-cipher sb$ python3 Cipher.py 
 
 Enter plain text: hello, how are you
 Coded text:  czggj, cjr vmz tjp
@@ -101,4 +101,4 @@ Coded text:  Wvoh wg hvs hwas, Soa?
 Cracked text:  What is the time, Sam?
 
 Enter plain text: exit
-Mac-mini:01-cipher raj$</pre>
+Mac-mini:01-cipher sb$</pre>
