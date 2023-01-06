@@ -51,7 +51,7 @@ In this programming assignment, you will develop Python programs to encode plain
           ???</pre>
         
     -   By rotating the observed frequency table by different positions (0 to 25), you can get 26 different versions of the frequency table, each corresponding to one of the 26 shift factors that could have been used to encode. The table with the "least" value for the chi-square statistic will correspond to the most likely shift factor that was used to encode. You can then use this shift factor to "crack" the code! Here are few functions to write to implement this part:
-        <rpe>
+        <pre>
         def rotate(n,xs):
           ## rotates list xs by n positions
           ???
